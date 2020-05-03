@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## 欢迎来到 录火电竞-记录电竞大咖首选App
 
-You can use the [editor on GitHub](https://github.com/zhanghesongyuan/ExcellentElectronicSportsPlayersRecord/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](icon-1024.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+在我们玩电竞游戏的时候，常常会遇到一些游戏高手大咖，他们凭借着优秀的走位和意识，带领队友走向胜利。我们可以通过记录和学习游戏大咖们的游戏玩法，出装顺序和团队意识，游戏场次和获得MVP场次等信息，研究他们是如何一步一步带领团队走向胜利的。通过这种方式可以帮助我们更好的了解游戏的玩法，获得更好的游戏体验。
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+如果您遇到什么需要解答的问题，请发送您的问题到以下邮箱。
 
-```markdown
-Syntax highlighted code block
+我们将第一时间为您解答。
 
-# Header 1
-## Header 2
-### Header 3
+### 邮箱地址: zhanghesongyuan7@126.com
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhanghesongyuan/ExcellentElectronicSportsPlayersRecord/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+谢谢！
